@@ -1,4 +1,4 @@
-# Ek.ib_Cms
+# Ekib_cms
 
 This cms is my first attemps to create a cms project with framework. 
 
