@@ -1,9 +1,9 @@
-# Ekib_cms
+# Ekib CMS
 
 This cms is my first attemps to create a cms project with framework. 
 
 ### License
-Ek.ib_Cms is an open source project by [Erhan Kılıç](http://erhankilic.org) that is licensed under [MIT](http://opensource.org/licenses/MIT).
+Ekib CMS is an open source project by [Erhan Kılıç](http://erhankilic.org) that is licensed under [MIT](http://opensource.org/licenses/MIT).
 
 ### Contribution
 
